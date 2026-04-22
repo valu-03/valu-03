@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Valentin
 
-<!--
-**valu-03/valu-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Self-Taught Programmer  
+🚀 Passionate about technology, computers, and AI-driven solutions  
+🤖 Focused on AI Automations  
+🌍 Learning something new every day  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🔭 I’m currently working on: **AI automation projects & tools**
+* 🌱 I’m currently learning: **new technologies daily**
+* 👯 I’m looking to collaborate on: **AI and automation projects**
+* 💬 Ask me about: **Python, HTML, CSS, and automation workflows**
+* ⚡ Fun fact: **I'm fully self-taught and constantly improving**
+
+---
+
+### Interests
+
+* 🤖 AI Automation
+* ⚙️ Workflow Optimization
+* 🌐 Web Development
+* 🧠 Technology in all its forms
+
+---
+
+## 💡 Philosophy
+
+> "Consistency beats talent when talent doesn't stay consistent."
+
+---
+
+⭐️ From Valentin
